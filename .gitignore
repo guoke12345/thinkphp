@@ -1,0 +1,11 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# idea
+.idea
+
+# php
+# 忽略php框架文件夹
+ThinkPHP/
